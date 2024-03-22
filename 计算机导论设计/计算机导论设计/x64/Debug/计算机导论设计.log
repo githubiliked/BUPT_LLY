@@ -1,5 +1,0 @@
-﻿  function.cpp
-  main.cpp
-  正在生成代码...
-E:\code\计算机导论设计\计算机导论设计\function.cpp(745): warning C4715: “Changedir”: 不是所有的控件路径都返回值
-  计算机导论设计.vcxproj -> E:\code\计算机导论设计\x64\Debug\计算机导论设计.exe
